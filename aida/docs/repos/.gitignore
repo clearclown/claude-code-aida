@@ -1,0 +1,7 @@
+# Cloned reference repositories
+# These are external OSS projects for reference only
+# Do not track in git - clone locally as needed
+
+*
+!.gitignore
+!README.md
